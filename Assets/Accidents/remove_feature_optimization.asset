@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e367941ab72918344b9328de2739cf96, type: 3}
+  m_Name: remove_feature_optimization
+  m_EditorClassIdentifier: 
+  identifier: remove_feature_optimization
+  message: Team, 'Good Optimization' feature is on hold. Our optimization tool is
+    throwing a fit. Shifting focus to ensure a smooth experience without it for now.
+  effect: 'Removed feature: Good optimization'
+  type: 2
+  ruleToAdd: {fileID: 0}
+  role: 0
+  hours: 0
+  feature: {fileID: 11400000, guid: bb4132c98247a3b4f9cf2e454250fccd, type: 2}

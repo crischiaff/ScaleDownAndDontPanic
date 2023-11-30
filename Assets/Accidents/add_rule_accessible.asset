@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e367941ab72918344b9328de2739cf96, type: 3}
+  m_Name: add_rule_accessible
+  m_EditorClassIdentifier: 
+  identifier: add_rule_accessible
+  message: 'Team, exciting update! New requirement in play: ''Accessible and easy
+    to use.'' Time to ensure our game welcomes everyone with open arms. Ready for
+    the challenge?'
+  effect: 'Added requirement: Accessibility and Easy To Use '
+  type: 0
+  ruleToAdd: {fileID: 11400000, guid: f90bcbc39348c144b9710f629ffffa60, type: 2}
+  role: 0
+  hours: 0
+  feature: {fileID: 0}

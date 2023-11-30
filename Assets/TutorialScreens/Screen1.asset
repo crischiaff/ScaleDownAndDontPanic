@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2954a61b05b88847ac9e064fa1520e5, type: 3}
+  m_Name: Screen1
+  m_EditorClassIdentifier: 
+  description: "Welcome, fellow developer. So, have you finally decided that life\u2019s
+    too short for sleeping at night? I\u2019ve got just the thing: participate in
+    a <b>Game Jam</b>! What are you waiting for! Grab a cup of coffee and focus!
+    Sleep is for the weak!\r\n\nIn a while, you will participate at your first Game
+    Jam. But first, why don\u2019t we familiarize ourselves with the basics?"
+  image: {fileID: 0}

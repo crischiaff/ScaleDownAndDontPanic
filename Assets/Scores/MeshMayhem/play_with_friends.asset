@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 710dd127532b4304dbe52f72d4ffc4e3, type: 3}
+  m_Name: play_with_friends
+  m_EditorClassIdentifier: 
+  requirement: {fileID: 11400000, guid: 1df086e0c331d4741b382392682a2bf2, type: 2}
+  scores:
+  - feature: {fileID: 11400000, guid: 2a2425415eedc014f82a2a07f3adb868, type: 2}
+    score: 3
+  - feature: {fileID: 11400000, guid: d352d5abbc11d2e45ba439a475d23498, type: 2}
+    score: 21
+  - feature: {fileID: 11400000, guid: 26581bca8286f5e4bac55711e0c44882, type: 2}
+    score: 21
+  - feature: {fileID: 11400000, guid: bde677c6153ae534bb53f84f7c24eea8, type: 2}
+    score: 31

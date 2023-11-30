@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e367941ab72918344b9328de2739cf96, type: 3}
+  m_Name: add_rule_personalization_exp
+  m_EditorClassIdentifier: 
+  identifier: add_rule_personalization_exp
+  message: 'Breaking news! The organizers just dropped a new requirement: Personalization
+    of Experience. It seems they want players to feel a one-of-a-kind journey.'
+  effect: 'Added requirement: Personalization of experience'
+  type: 0
+  ruleToAdd: {fileID: 11400000, guid: 4b9d4219c6bb401468cd8596745716aa, type: 2}
+  role: 0
+  hours: 0
+  feature: {fileID: 0}

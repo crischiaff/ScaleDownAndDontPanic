@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 710dd127532b4304dbe52f72d4ffc4e3, type: 3}
+  m_Name: multiple_platforms
+  m_EditorClassIdentifier: 
+  requirement: {fileID: 11400000, guid: 395e98018cb10554580050e74680a9af, type: 2}
+  scores:
+  - feature: {fileID: 11400000, guid: 54d9065af5ed94f4fb8cf22e084fb48b, type: 2}
+    score: 25
+  - feature: {fileID: 11400000, guid: d3e4c5f15979dc841ab41d7b1a16905b, type: 2}
+    score: 11
+  - feature: {fileID: 11400000, guid: bb4132c98247a3b4f9cf2e454250fccd, type: 2}
+    score: 11
+  - feature: {fileID: 11400000, guid: 60f45a05a2a25a54eae34d838697be06, type: 2}
+    score: 11
+  - feature: {fileID: 11400000, guid: 95ecb1d82acd4e449ba0495e697143f7, type: 2}
+    score: 12
+  - feature: {fileID: 11400000, guid: d5caa12eb05b5014e8421948ef2780e4, type: 2}
+    score: 21

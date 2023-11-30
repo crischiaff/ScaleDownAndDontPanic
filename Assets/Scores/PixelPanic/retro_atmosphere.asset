@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 710dd127532b4304dbe52f72d4ffc4e3, type: 3}
+  m_Name: retro_atmosphere
+  m_EditorClassIdentifier: 
+  requirement: {fileID: 11400000, guid: be3199a2f4babdc44b9fc272d06c76e8, type: 2}
+  scores:
+  - feature: {fileID: 11400000, guid: 2a2425415eedc014f82a2a07f3adb868, type: 2}
+    score: 5
+  - feature: {fileID: 11400000, guid: f87194967a0564048af59796514f62dc, type: 2}
+    score: 15
+  - feature: {fileID: 11400000, guid: 44da58fffd7e7fb4d93093060c20196c, type: 2}
+    score: 5
+  - feature: {fileID: 11400000, guid: fc5c05617476b294fbfa0d9e8b9b74c8, type: 2}
+    score: 12
+  - feature: {fileID: 11400000, guid: 427e986765c13ec49b13f36f90479a3f, type: 2}
+    score: 5
+  - feature: {fileID: 11400000, guid: d8e75794c0f78534fb293390f102314e, type: 2}
+    score: 5
+  - feature: {fileID: 11400000, guid: 012ccc4ce98a2f3439ce312d8e47f337, type: 2}
+    score: 11
+  - feature: {fileID: 11400000, guid: b0b21b9efe48521498e2a88ca8719b4d, type: 2}
+    score: 11
+  - feature: {fileID: 11400000, guid: a967862f11f53a143bae04561b374ef0, type: 2}
+    score: 15
+  - feature: {fileID: 11400000, guid: c704ddd34ef468c4f9df620f95bdeaeb, type: 2}
+    score: 12
+  - feature: {fileID: 11400000, guid: d352d5abbc11d2e45ba439a475d23498, type: 2}
+    score: 15
+  - feature: {fileID: 11400000, guid: 26581bca8286f5e4bac55711e0c44882, type: 2}
+    score: 21

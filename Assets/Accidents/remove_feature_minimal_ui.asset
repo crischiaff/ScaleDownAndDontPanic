@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e367941ab72918344b9328de2739cf96, type: 3}
+  m_Name: remove_feature_minimal_ui
+  m_EditorClassIdentifier: 
+  identifier: remove_feature_minimal_ui
+  message: "Designer's note: I'm embracing the baroque vibes, and 'Minimal UI' doesn't
+    align with my aesthetic principles. Sorry for the switch \u2013 let's weave some
+    ornate magic into our design instead!"
+  effect: 'Removed feature: Minimal UI'
+  type: 2
+  ruleToAdd: {fileID: 0}
+  role: 0
+  hours: 0
+  feature: {fileID: 11400000, guid: fc5c05617476b294fbfa0d9e8b9b74c8, type: 2}
